@@ -1,0 +1,3 @@
+ID	Name	Age	Gender	Ailment	Emergency	Contact	Severity
+123		21			Yes		Unknown
+2345	ANKIT	21	M	pain	Yes	123456676	Serious
