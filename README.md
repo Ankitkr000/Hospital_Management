@@ -49,13 +49,15 @@ Follow these steps to run the Hospital Management System on your local machine:
 First, clone the repository to your local machine:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Ankitkr000/Hospital_Management.git
 cd CPP-Hospital-Management
 
 ## Step 2: Compile the Project
 
 Make sure you have g++ installed. Then, compile the project using the following command:
 
+
+FOR WINDOWS OPERATING SYSTEM - 
 g++ src/*.cpp -Iinclude -o build/Hospital.exe
 
 ## Step 3: Run the Executable
